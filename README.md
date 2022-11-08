@@ -1,11 +1,11 @@
 # APCSA Freedom Project
-by X
+by Weijie Jiang
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about Weight Training. The purpose of this blog is to teach and caution people who is passionate in going into fitness or weight training. 
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a Weight Training Simulator. This blog will walk through my process of independently studying Unity in order to make the simulator.
 
 ## Links
 
