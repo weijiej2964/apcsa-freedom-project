@@ -37,8 +37,9 @@ Editing content of a object is similar to turning on or off, but instead its a c
 
 Therefore the text would change to 5 instead of blank as default. 
 
+### EDP 
 
-
+I am currently on step 2 and 3 of engineering design process, researching/learning the project and brainstorming solutions as well. 
 
 
 [Previous](entry01.md) | [Next](entry03.md)
