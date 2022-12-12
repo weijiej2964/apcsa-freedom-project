@@ -7,7 +7,7 @@ In the following weeks of tinkering with Unity, I have got a basic understanding
 
 ### Click Event
 
-Clicking event is the main way the player is going to interact with the game's functions, such as transitions, opening panels, etc. Therefore it is the first feature I dug into. The video I watched was (Master Unity Button OnClick actions)[https://www.youtube.com/watch?v=Ky-bzQFxV2U&t=522s&ab_channel=CocoCode] by Coco Code, which go through `TextMeshPro`'s UI functionality. TextMeshPro Button UI is a precreated object element with the `button` compoent and a text element inside the object. TextMeshPro button UI is extermely useful and provides the foudation of a button, so all I need to do is code the functionality script and attach to the button's `button` compoent. 
+Clicking event is the main way the player is going to interact with the game's functions, such as transitions, opening panels, etc. Therefore it is the first feature I dug into. The video I watched was [Master Unity Button OnClick actions](https://www.youtube.com/watch?v=Ky-bzQFxV2U&t=522s&ab_channel=CocoCode) by Coco Code, which go through Button compoent's UI functionality. TextMeshPro Button UI is a precreated object element with the `button` compoent and a text element inside the object. TextMeshPro button UI is extermely useful and provides the foudation of a button, so all I need to do is code the functionality script and attach to the button's `button` compoent. 
 
 
 
