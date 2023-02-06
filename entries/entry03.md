@@ -1,7 +1,27 @@
 # Entry 3
-##### X/X/XX
+##### 2/6/23
 
-Text
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [Previous](entry02.md) | [Next](entry04.md)
 
