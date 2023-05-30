@@ -14,7 +14,9 @@ Some things in the blog include
 * Sprite Work
 * choosing player input
 * The Algorithm! 
-* 
+
+
+
 ## Links
 
 [Product](https://simmer.io/@Vegetable/weight-training-simulator)
@@ -37,8 +39,4 @@ During the creation, I intentionally added determination as the major factor so 
 * [Blog Entry 4](entries/entry04.md)
 * [Blog Entry 5](entries/entry05.md)
 * [Blog Entry 6](entries/entry06.md)
-* [Blog Entry 7](entries/entry07.md)
-* [Blog Entry 8](entries/entry08.md)
-* [Blog Entry 9](entries/entry09.md)
-* [Blog Entry 10](entries/entry10.md)
 
